@@ -9,7 +9,8 @@ Flipkart Sales Dataset- This dataset is initially available in "xlsx" format, wh
 
 ## *Tools:*
 Power BI
-Steps I have done in this Project:
+
+## *Steps I have done in this Project:*
 Data loading and inspection.
 Handling missing values and empty rows.
 Data cleaning and formatting.
